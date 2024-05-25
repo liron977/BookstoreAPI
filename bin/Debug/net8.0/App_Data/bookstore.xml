@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+  <book category="children">
+    <isbn>9051234567897</isbn>
+    <title lang="en">Harry Potter</title>
+    <author>J K. Rowling</author>
+    <year>2005</year>
+    <price>29.99</price>
+  </book>
+  <book category="web">
+    <isbn>9031234567897</isbn>
+    <title lang="en">XQuery Kick Start</title>
+    <author>James McGovern</author>
+    <author>Per Bothner</author>
+    <author>Kurt Cagle</author>
+    <author>James Linn</author>
+    <author>Vaidyanathan Nagarajan</author>
+    <year>2003</year>
+    <price>49.99</price>
+  </book>
+  <book category="web" cover="paperback">
+    <isbn>9043127323207</isbn>
+    <title lang="en">Learning XML</title>
+    <author>Erik T. Ray</author>
+    <year>2003</year>
+    <price>39.95</price>
+  </book>
+  <book category="string" cover="string">
+    <isbn>ggvghh</isbn>
+    <title>l</title>
+    <year>0</year>
+    <price>0</price>
+    <author>string</author>
+  </book>
+  <book category="adults" cover="l k">
+    <isbn>ggjvghh</isbn>
+    <title>n</title>
+    <author></author>
+    <year>2024</year>
+    <price>50</price>
+  </book>
+  <book category="4" cover="4">
+    <isbn>liron</isbn>
+    <title>4</title>
+    <author>4</author>
+    <year>40</year>
+    <price>40</price>
+  </book>
+  <book category="45">
+    <isbn>5454</isbn>
+    <title>45</title>
+    <author>45</author>
+    <year>5</year>
+    <price>50</price>
+  </book>
+</bookstore>
